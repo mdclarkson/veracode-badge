@@ -17,6 +17,6 @@
   "dependencies": {
     "axios": "^0.21.1",
     "badge-maker": "^3.3.0",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.6.0"
   }
 }
